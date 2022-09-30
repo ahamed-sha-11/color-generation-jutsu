@@ -21,6 +21,7 @@ body{
 }
 .navbar{
     padding: 20px;
+    text-transform: uppercase;
 }
 .color-selector{
     background: #123e3d;
