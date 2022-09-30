@@ -34,7 +34,7 @@ body{
     border-radius: 25px;
     align-items: center;
     flex-direction: column;
-    box-shadow: 2px 2px 5px #fefefe;
+    box-shadow: 2px 2px 5px #123e3d;
 }
 .color-selector h1{
     padding: 10px;
